@@ -1,0 +1,1 @@
+select sum(e_salary), avg(e_age), e_gender from company group by e_gender;  

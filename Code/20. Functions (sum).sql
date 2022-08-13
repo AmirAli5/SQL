@@ -1,0 +1,1 @@
+select sum(e_salary) from company;  

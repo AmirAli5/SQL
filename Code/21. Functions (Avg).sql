@@ -1,0 +1,1 @@
+select avg(e_age) from company;   

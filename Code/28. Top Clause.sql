@@ -1,0 +1,1 @@
+select top 4 * from company;

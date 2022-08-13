@@ -1,0 +1,1 @@
+select MAX(e_age) from company; 

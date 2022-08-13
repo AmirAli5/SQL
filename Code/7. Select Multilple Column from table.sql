@@ -1,0 +1,1 @@
+select e_name, e_age, e_salary from company;

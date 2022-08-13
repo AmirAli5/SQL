@@ -1,0 +1,1 @@
+select count(*) from company where e_gender = 'male'; 

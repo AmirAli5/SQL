@@ -1,0 +1,1 @@
+select MIN(e_salary) from company;
