@@ -1,6 +1,6 @@
 ![SQL](https://pbs.twimg.com/media/FaEbtoZWYAIUWA6?format=jpg&name=medium)
 
-In this repo, all about SQL. SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.<br>
+In this repo, all about Structured Query Language(SQL) which is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.<br>
 
 Topics that covered are:
 1. Create, Use and Drop Database <br>
